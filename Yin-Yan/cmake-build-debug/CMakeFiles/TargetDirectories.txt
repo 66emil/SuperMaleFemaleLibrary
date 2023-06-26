@@ -1,0 +1,3 @@
+/Users/ldst/Desktop/Yin-Yan/cmake-build-debug/CMakeFiles/Yin_Yan.dir
+/Users/ldst/Desktop/Yin-Yan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ldst/Desktop/Yin-Yan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
